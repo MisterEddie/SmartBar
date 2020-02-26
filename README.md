@@ -11,5 +11,8 @@ We wanted to make a device that optimized convenience for the user while increas
 ## What It Does 
 The device monitors power consumption and based on continual readings automatically shuts off power to idle devices. In addition to reducing phantom power consumption, the smart power bar monitors real-time energy consumption and provides graphical analytics to the user through MongoDB. The user is sent weekly power consumption update-emails, and notifications whenever the power is shut off to the smart power bar. It also has built-in safety features, to automatically cut power when devices draw a dangerous amount of current, or a manual emergency shut off button should the user determine their power consumption is too high.
 
-![Picture2](https://github.com/MisterEddie/SmartBar/blob/master/WorkingDemoed/received_659676838105594.jpeg)
-![Picture1](https://github.com/MisterEddie/SmartBar/blob/master/WorkingDemoed/rsz_186624123_205988033880990_6620783445033353216_n.png)
+![Picture2](https://github.com/MisterEddie/SmartBar/blob/master/pictures/logo.png)
+![Picture1](https://github.com/MisterEddie/SmartBar/blob/master/pictures/received_659676838105594.jpeg)
+![Picture1\3](https://github.com/MisterEddie/SmartBar/blob/master/pictures/EOS100(Batch2)%20(51%20of%20116).jpg)
+![Picture1\4](https://github.com/MisterEddie/SmartBar/blob/master/pictures/EOS100(Batch2)%20(82%20of%20116).jpg)
+
