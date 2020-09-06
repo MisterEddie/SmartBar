@@ -1,5 +1,5 @@
 # SmartBar
-A smart power bar that monitors, controls, and reduces power consumption through manual and MongoDB Analytics
+A smart power bar that monitors, controls, and reduces power consumption through manual and MongoDB Analytics.  Please see more here: https://devpost.com/software/smartbar-nwuxg9
 
 ## Inspiration
 Our team wanted to make a smart power bar device to tackle the challenge of phantom power consumption. 
